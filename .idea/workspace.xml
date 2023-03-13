@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc98d44b-67da-433b-9cdc-ff5811b9f459" name="Default Changelist" comment="tipos de datos">
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Archivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Contacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Impresion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Inicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_11_17/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parteZ01Parcial_2_2022_12_01/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archivo2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arhivoVacio.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/parteF02StreamsDeDatos/Escritura.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/parteF02StreamsDeDatos/Escritura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/parteF03Serializacion/Escritura.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/parteF03Serializacion/Escritura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/parteZ01Final_2022_11_09/Activo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/parteZ01Final_2022_11_09/Activo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/parteZ01Final_2022_11_09/AdminClientes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/parteZ01Final_2022_11_09/AdminClientes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miObjetoSerializado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parteF02StreamsDeDatos/parte02EscrituraDeFicheros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parteF02StreamsDeDatos/parte02EscrituraDeFicheros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parteF03Serializacion/Escritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parteF03Serializacion/Escritura.java" afterDir="false" />
     </list>
     <list id="368949f2-555d-4ebb-b3a4-dd816b96666c" name="tipos de datos" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,17 +63,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/juanf/dev/CursoDeJava",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/juanf/dev/CursoDeJava&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\juanf\dev\CursoDeJava\src\parteYdeParcial01" />
